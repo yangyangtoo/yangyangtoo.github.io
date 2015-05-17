@@ -25,6 +25,10 @@ img[alt=small] {
     height: 200px;
 }
 
+img[alt=middle] {
+    height: 350px;
+}
+
 
 /* posts index */
 .post > h3.title {
