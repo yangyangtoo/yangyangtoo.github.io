@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如果我是一朵花"
-description: "游阿姆斯特丹之库肯霍夫公园"
+tagline: "游阿姆斯特丹之库肯霍夫公园"
 category: 游记
 tags: [花，花，花]
 ---
