@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Post List
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
