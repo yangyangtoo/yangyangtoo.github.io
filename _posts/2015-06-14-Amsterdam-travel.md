@@ -2,7 +2,7 @@
 layout: post
 title: "羊羊游阿姆斯特丹"
 category: 游记
-tags: Amsterdam, 奶酪, 风车
+tags: Amsterdam 奶酪 风车
 ---
 {% include JB/setup %}
 
@@ -66,9 +66,9 @@ Amsterdam－运河花市
 
 *《河畔－安妮故居旁－听LG唱为你我受冷风吹》*
 
-![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/2015-05-14 20.22.47.JPG)
+![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/2015-05-14_20.22.47.jpg)
 
 
 *《小鞋子里的绿意》*
 
-![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/2015-05-25 20.24.15.JPG)
+![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/2015-05-25_20.24.15.jpg)
