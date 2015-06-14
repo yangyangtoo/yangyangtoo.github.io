@@ -55,6 +55,8 @@ Zaanse Schans－风车和木屐
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0499.JPG)
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0501.JPG)
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0506.JPG)
+![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0516.JPG)
+
 
 *《在风车村总是闻着一阵阵的巧克力的味道，惑，问冰激凌店mm，果有巧克力工厂，如此甜美》*
 
