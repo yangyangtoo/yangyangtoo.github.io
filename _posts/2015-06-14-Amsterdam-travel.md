@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "羊羊游阿姆斯特丹"
-tagline: 
-category:游记
-tags: [Amsterdam][奶酪][风车]
+category: 游记
+tags: Amsterdam, 奶酪, 风车
 ---
 {% include JB/setup %}
 
