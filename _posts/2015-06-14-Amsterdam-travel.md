@@ -17,7 +17,6 @@ Alkmaar－热闹的奶酪交易市场
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0344.JPG)
 
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0340.JPG)
-
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0328.JPG)
 ![middle]({{ site.url }}/assets/my_photos/amsterdam-travel/DSC_0330.JPG)
 
